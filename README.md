@@ -15,7 +15,7 @@
 
 This is a demonstration project for <a href="https://squirro.com/"> Squirro </a>
  
-SumparPI is a RESTful API built on Flask and TinyDB, used in order to generate and retrieve the summary of large texts using the gensim NLP module. The API is consisted of two endpoints. 
+SumparPI is a RESTful API built on Flask and TinyDB, used in order to generate and retrieve the summary of large texts using the Gensim NLP module. The API is consisted of two endpoints. 
 - `/` where texts can be posted and 
 - `/summary/<id>` where text summaries can be retrieved. 
 
