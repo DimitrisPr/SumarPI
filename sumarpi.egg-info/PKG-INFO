@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: sumarpi
+Version: 0.0.1
+Summary: Flask-based API for providing summary of texts
+Home-page: https://github.com/DimitrisPr/summarizeFlaskAPI
+Author: Dimitris Prasakis
+Author-email: dimitris@prasakis.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

@@ -1,0 +1,3 @@
+[console_scripts]
+sumarpi = sumarpi.cli:client
+

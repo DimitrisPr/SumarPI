@@ -1,0 +1,89 @@
+
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    vertical-align: middle;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+#logo-wrap, #form-wrap  {
+    display: block;
+    width:100%;
+    margin: 20px;
+    font-size: 30px;
+    align-items: center;
+}
+
+#logo-wrap img {
+    display: block;
+    width:120px;
+    margin: 0 auto;
+}
+
+#logo-wrap p {
+    font-size: 25px;
+    color: #2b364e;
+}
+
+
+textarea {
+    display: block;
+    font-family: sans-serif, monospace;
+    font-size: 20px;
+    min-height: 40px;
+    min-width: 500px;
+    border-radius: 10px;
+    color: #2b364e;
+    padding: 20px;
+    margin: 0 auto;
+    border: 2px solid #2b364e;
+    outline: none;
+}
+
+input {
+    display: block;
+    margin: 20px auto;
+    padding:8px 10px;
+    background-color: #5d72a3;
+    border: 2px solid #5d72a3;
+    color: white;
+    border-radius: 5px;
+    outline: none; 
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+input:hover {
+    background-color: white;
+    color: #5d72a3;
+    border-radius: 6px;
+    transition: 0.3s;
+}
+
+#footnote {
+    position: fixed;
+    bottom:0;
+    left:0;
+    margin: 0;
+    padding: 10px 0;
+    width:100%;
+    text-align: center;
+    background-color: #5d72a3;
+    color: white;
+}
+
+#footnote a {
+    color: #d0ff00;
+}
