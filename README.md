@@ -28,6 +28,7 @@ Table of Contents
 * [Installation](#installation) 
 * [Tests](#tests)
 * [To Do's](#to-do-testing)
+* [Architecture](#to-do-testing)
 
 # Installation
 
